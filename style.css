@@ -1,0 +1,57 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+}
+.firstsec {
+  height: 800px;
+  width: 100%;
+  background-color: black;
+}
+.navbar {
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: rgb(148, 144, 144);
+}
+.navlist {
+  display: flex;
+  list-style: none;
+}
+ul > li {
+  margin-left: 80px;
+}
+.fa-bars {
+  font-size: 30px;
+}
+.transform {
+  font-size: 180px;
+  color: white;
+  padding-left: 5%;
+  background: linear-gradient(to right, white 10%, gray 90%);
+  color: transparent;
+  -webkit-background-clip: text;
+  font-family: "Montserrat", sans-serif;
+}
+.img1 {
+  filter: grayscale(100%);
+  position: absolute;
+  top: 35%;
+  left: 47%;
+}
+.your {
+  font-size: 180px;
+  color: white;
+  position: relative;
+  bottom: 8%;
+  padding-left: 5%;
+  background: linear-gradient(to right, white 10%, gray 90%);
+  color: transparent;
+  -webkit-background-clip: text;
+  font-family: "Montserrat", sans-serif;
+}
