@@ -114,10 +114,10 @@ ul > li {
   height: 40px;
   width: 150px;
   border: none;
-  background: linear-gradient(to right, rgb(0, 0, 0) 70%, white);
+  background: linear-gradient(to right, rgb(14, 13, 13) 70%, white);
   color: white;
   border-radius: 30px;
-  box-shadow: 1px 1px 2px white;
+  box-shadow: 1px 1px 2px rgb(30, 29, 29);
   font-weight: bold;
   z-index: 1;
 }
@@ -137,9 +137,9 @@ ul > li {
   top: 4px;
 }
 .display2 {
-  margin-left: 10%;
+  margin-left: 17%;
   height: 125px;
-  width: 40%;
+  width: 33%;
   /* background-color: rgb(255, 0, 0); */
   display: flex;
   justify-content: space-evenly;
@@ -153,3 +153,151 @@ ul > li {
   z-index: 1;
   filter: grayscale(100%);
 }
+.box1 {
+  height: 2px;
+  width: 100%;
+  background-color: gray;
+}
+.secondsec {
+  height: 750px;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+}
+.leftside {
+  height: 500px;
+  width: 30%;
+  /* background-color: white; */
+  margin-top: 10%;
+  filter: grayscale(100%);
+}
+.rightside {
+  height: 500px;
+  width: 45%;
+  /* background-color: red; */
+  margin-top: 10%;
+}
+.text {
+  color: gray;
+  text-align: end;
+  font-size: 38px;
+}
+.text2 {
+  color: white;
+  text-align: end;
+  font-size: 36px;
+}
+span {
+  color: gray;
+}
+.heading1 {
+  color: white;
+  font-size: 60px;
+  margin-left: 13%;
+}
+.heading2 {
+  color: gray;
+  margin-left: 13%;
+}
+.heading3 {
+  color: gray;
+  margin-left: 18%;
+}
+.heading4 {
+  color: gray;
+  margin-left: 16%;
+}
+.btn3 {
+  height: 40px;
+  width: 150px;
+  border: none;
+  background: linear-gradient(to left, rgb(179, 177, 177), white);
+  color: rgb(63, 61, 61);
+  border-radius: 30px;
+  box-shadow: 1px 1px 5px white;
+  font-weight: bold;
+  margin-top: 20%;
+  margin-left: 80%;
+}
+.thirdsec {
+  height: 750px;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+}
+.leftside2 {
+  height: 500px;
+  width: 25%;
+  /* background-color: white; */
+  margin-top: 10%;
+}
+.rightside2 {
+  height: 500px;
+  width: 55%;
+  background-color: red;
+  margin-top: 10%;
+  filter: grayscale(100%);
+  background-image: url(https://img.freepik.com/free-photo/3d-rendering-modern-dining-room-living-room-with-luxury-decor_105762-2000.jpg?w=1380&t=st=1706817532~exp=1706818132~hmac=5c049cb4b42ef960b819673e442007a8c67e59dd6eaca2d95514121d881bff47);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fa-circle-play {
+  font-size: 100px;
+  padding-left: 43%;
+  padding-top: 23%;
+}
+.text3 {
+  color: gray;
+  font-size: 40px;
+}
+.sprite {
+  font-size: 40px;
+  color: white;
+}
+.provide {
+  color: gray;
+  padding-top: 20%;
+}
+.btn4 {
+  height: 50px;
+  width: 150px;
+  border: 2px solid white;
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+  font-weight: bold;
+  margin-top: 40%;
+}
+.fourthsec {
+  height: 1500px;
+  width: 100%;
+  background-color: black;
+}
+.home {
+  color: gray;
+  font-size: 60px;
+  padding-left: 7%;
+  padding-top: 7%;
+}
+.box2 {
+  height: 2px;
+  width: 100%;
+  background-color: gray;
+  margin-top: 3%;
+}
+.box3 {
+  height: 2px;
+  width: 100%;
+  background-color: gray;
+  margin-top: 8%;
+}
+.home3 {
+  color: white;
+  font-size: 60px;
+  padding-left: 7%;
+  padding-top: 7%;
+}
+
