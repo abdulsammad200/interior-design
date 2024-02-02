@@ -272,7 +272,7 @@ span {
   margin-top: 40%;
 }
 .fourthsec {
-  height: 1500px;
+  height: 1600px;
   width: 100%;
   background-color: black;
 }
@@ -300,4 +300,56 @@ span {
   padding-left: 7%;
   padding-top: 7%;
 }
+.display3 {
+  height: 300px;
+  width: 100%;
+  /* background-color: rgb(249, 7, 7); */
+  display: flex;
+  justify-content: space-between;
+}
+.img4{
+filter: grayscale(100%);
+padding-top: 50px;
+}
+.fifthsec {
+  height: 850px;
+  width: 100%;
+  background-color: black;
+}
+.leftside3{
+  height: 120px;
+  width: 40%;
+  /* background-color: white; */
+  margin-top: 5%;
+}
+.rightside3{
+  height: 120px;
+  width: 40%;
+  /* background-color: white; */
+  margin-top: 5%;
+
+}
+.display4{
+  display: flex;
+  justify-content: space-evenly;
+}
+.every{
+font-size: 45px;
+color: white;
+}
+.Carve{
+  color: gray;
+  text-align: end;
+  font-size: 20px;
+}
+.box5{
+margin-top: 5%;
+height: 500px;
+width: 20%;
+background-color: white;
+}
+.img5{
+  filter: grayscale(100%);
+}
+
 
